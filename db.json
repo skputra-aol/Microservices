@@ -1,1 +1,11 @@
-{"name":"John", "age":30, "cars":["Ford", "BMW", "Fiat"]}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
