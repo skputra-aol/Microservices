@@ -16,4 +16,9 @@
   "profile": {
     "name": "typicode"
   }
+  ,
+  "catatan": {
+    "untuk": "json api server dari github",
+    "url": "https..my-json-server.typicode.com"
+  }
 }
